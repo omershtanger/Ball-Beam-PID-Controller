@@ -65,5 +65,4 @@ The `Kp`, `Ki` and `Kd` gains are set in the code. A common tuning order:
 
 ## Author
 
-**Omer Shtanger**, Electrical Engineering student at Tel Aviv University
-[LinkedIn](https://linkedin.com/in/omer-shtanger) · [GitHub](https://github.com/omershtanger)
+**Omer Shtanger**
