@@ -1,6 +1,6 @@
 # Ball & Beam PID Controller
 
-A closed-loop control system that balances a rolling ball on a tilting beam. An ultrasonic sensor measures the ball's position, and a custom PID controller sets the beam angle with a PWM-driven servo so the ball stays at the target point.
+A closed loop control system that balances a rolling ball on a tilting beam. An ultrasonic sensor measures the ball's position, and a custom PID controller sets the beam angle with a PWM-driven servo so the ball stays at the target point.
 
 <!-- Add a photo or demo GIF here, e.g. ![Ball & Beam](images/demo.gif) -->
 
